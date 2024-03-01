@@ -1,3 +1,3 @@
 # StudyManage
 
-change check
+change check 22
