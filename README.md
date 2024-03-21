@@ -1,7 +1,7 @@
 # Java Study
 
 ## 🚀진행 방식
-- 매주 수요일 19:00에 진행
+- 매주 화요일 19:00에 진행
 - 지정 범위 공부해오기
 - 각 회차마다 한 명씩 번갈아 가면서 새롭게 알게된 내용 / 중요한 내용 발표
 <br>
@@ -37,7 +37,18 @@
 - 형변환
 - <a href="https://github.com/haeburney/StudyManage/tree/main/3.%EC%97%B0%EC%82%B0%EC%9E%90">연산자</a>
 
-
 ### 4주차
 - 연산자
-- <a href="https://github.com/haeburney/StudyManage/tree/main/4.%EC%A1%B0%EA%B1%B4%EB%AC%B8">조건문</a>   
+- <a href="https://github.com/haeburney/StudyManage/tree/main/4.%EC%A1%B0%EA%B1%B4%EB%AC%B8">조건문</a>
+
+### 5주차
+- <a href="https://github.com/haeburney/StudyManage/tree/main/4.%EC%A1%B0%EA%B1%B4%EB%AC%B8">반복문</a>
+- <a href="https://github.com/haeburney/StudyManage/tree/main/5.%EB%B0%B0%EC%97%B4">배열</a>
+
+
+<!-- 
+### 주차 
+- <a href="">주제</>
+- <a href="">주제</a>
+
+-->
