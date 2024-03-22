@@ -158,9 +158,12 @@ public class TvTest {
     }
 }
 ```
-<br/><br/>
+<br/><br/><br/><br/>
 
-<img src="">
+
+
+![image](https://github.com/haeburney/StudyManage/assets/76997276/d268fc94-95fc-452e-b5e4-ce69e2c2a357)
+
 
 `**t2 = t1;**` 을 하면 위 사진처럼 된다.
 
